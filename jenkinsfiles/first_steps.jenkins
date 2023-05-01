@@ -1,5 +1,5 @@
 #!groovy
-// Check ub1 properties
+// Check 192.168.2.107 properties
 properties([disableConcurrentBuilds()])
 
 pipeline {
